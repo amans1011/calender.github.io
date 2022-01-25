@@ -25,12 +25,10 @@ body {
   transform: skew(0deg, 15deg);
 }
 .left .content {
-  height: 400vw;
   width: 100vw;
   text-align: center;
 }
 .right .content {
-  height: 400vw;
   width: 100vw;
   text-align: center;
   transform: translate(-50vw);
@@ -38,7 +36,7 @@ body {
 span {
   display: inline-block;
   font-family: 'Montserrat', sans-serif;
-  font-size: 10vw;
+  font-size: 20vw;
   text-transform: uppercase;
   line-height: .8;
   transition: ease-out .6s;
