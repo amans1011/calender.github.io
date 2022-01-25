@@ -38,6 +38,6 @@ span {
   font-family: 'Montserrat', sans-serif;
   font-size: 20vw;
   text-transform: uppercase;
-  line-height: .8;
+  line-height: 1.8;
   transition: ease-out .6s;
 }
