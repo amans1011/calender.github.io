@@ -25,10 +25,12 @@ body {
   transform: skew(0deg, 15deg);
 }
 .left .content {
+  height: 400vw;
   width: 100vw;
   text-align: center;
 }
 .right .content {
+  height: 400vw;
   width: 100vw;
   text-align: center;
   transform: translate(-50vw);
